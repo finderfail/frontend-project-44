@@ -3,3 +3,6 @@
 
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=finderfail_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=finderfail_frontend-project-44)
+
+
+[ASCIINEMA](https://asciinema.org/a/oeKp1Sijhp16PeDo)

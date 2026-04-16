@@ -12,7 +12,7 @@ export const runGame = (name, gameLogic) => {
     if (String(userAnswer) === String(correctAnswer)) {
       console.log('Correct!')
       points += 1
-    } 
+    }
     else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
       console.log(`Let's try again, ${name}!`)

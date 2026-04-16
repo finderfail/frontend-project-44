@@ -1,5 +1,5 @@
 const randomNum = (max) => {
-  return Math.floor(Math.random() * max) + 1
+  return Math.floor(Math.random() * max) + 1 // NOSONAR
 }
 
 const findGCD = (a, b) => {

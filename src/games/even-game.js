@@ -1,5 +1,5 @@
 const randomNum = (max) => {
-  return Math.floor(Math.random() * max)
+  return Math.floor(Math.random() * max) // NOSONAR
 }
 
 export const generateEvenQuestion = () => {

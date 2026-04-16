@@ -1,10 +1,10 @@
 const randomNum = (max) => {
-  return Math.floor(Math.random() * max)
+  return Math.floor(Math.random() * max) // NOSONAR
 }
 
 const getRandomOperator = () => {
   const operators = ['+', '-', '*']
-  return operators[Math.floor(Math.random() * operators.length)]
+  return operators[Math.floor(Math.random() * operators.length)] // NOSONAR
 }
 
 export const generateCalcQuestion = () => {

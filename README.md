@@ -7,3 +7,4 @@
 
 [ASCIINEMA 1](https://asciinema.org/a/oeKp1Sijhp16PeDo)
 [asciinema 2](https://asciinema.org/a/TCPP56q3X07RoNlt)
+[asciinema 3](https://asciinema.org/a/FvOcVwl35KMhVnFm)

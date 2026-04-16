@@ -28,6 +28,6 @@ export const generateCalcQuestion = () => {
 
   return {
     question,
-    correctAnswer
+    correctAnswer,
   }
 }

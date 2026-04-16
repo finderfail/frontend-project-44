@@ -9,12 +9,13 @@ export const generateEvenQuestion = () => {
 
   if (isEven) {
     correctAnswer = 'yes'
-  } else {
+  }
+  else {
     correctAnswer = 'no'
   }
 
   return {
     question: number,
-    correctAnswer
+    correctAnswer,
   }
 }
